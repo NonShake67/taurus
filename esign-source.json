@@ -3,13 +3,13 @@
     {
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "samj",
-      "downloadURL" : "https:\/\/files.catbox.moe\/a59mvw.ipa",
+      "downloadURL" : "https:\/\/files.catbox.moe\/03ry8c.ipa",
       "iconURL" : "https:\/\/thumb.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/Spotify_App_Logo.svg\/960px-Spotify_App_Logo.svg.png",
       "name" : "Spotify",
       "size" : 132877139,
       "tintColor" : "0A4B00",
-      "version" : "0.60.5",
-      "versionDate" : "2026-10-25T10:38:00Z"
+      "version" : "0.60.4",
+      "versionDate" : "2026-10-24T10:38:00Z"
     }
   ],
   "description" : "taurus: the free, open-sourced alternative to chroma.pw with built-in spotify premium",
