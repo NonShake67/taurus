@@ -26,7 +26,6 @@
   <img src="docs/screenshots/playlist.webp" width="16%" alt="Playlist">
   <img src="docs/screenshots/queue.webp" width="16%" alt="Queue">
   <img src="docs/screenshots/live-activity.webp" width="16%" alt="Live Activity on the lock screen">
-  <img src="docs/screenshots/home.webp" width="16%" alt="Home">
 </p>
 
 ## Taurus: the free, open-sourced liquid glass spotify tweak - made my me. <3
