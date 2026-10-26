@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
   <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
+<p align="center">
+  <img src="docs/banner.png" width="1200" height="630" alt="">
+</p>
+
 
 <p align="center">
   <a href="https://gitlab.com/taurustweak/taurus">GitLab</a> ·  
