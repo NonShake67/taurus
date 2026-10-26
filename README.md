@@ -4,7 +4,7 @@
 
 <h1 align="center">taurus.</h1>
 
-<p align="center">Open-Sourced fork of chroma.pw with built-in Spotify Premium. </p>
+<p align="center">The Open-Sourced, Human-Made, Awesome Tweak for Spotify that grants Free Premium and Liquid Glass UI.</p>
 <p align="center">https://taurus.lat</p>
 
 <p align="center">
@@ -29,10 +29,7 @@
   <img src="docs/screenshots/live-activity.webp" width="16%" alt="Live Activity on the lock screen">
 </p>
 
-## Taurus: the free, open-sourced liquid glass spotify tweak - made my me. <3
-
-We have moved the source code to gitlab!
-[View it here!](https://gitlab.com/taurustweak/taurus)
+#### [We have moved the source code to GitLab!](https://gitlab.com/taurustweak/taurus)
 
 A no-jailbreak Theos tweak that rebuilds Spotify for iOS in Liquid Glass, injected into your own
 decrypted IPA and signed with your own certificate.
@@ -51,6 +48,8 @@ is greyed out and the mod runs Spotify's own screens with everything else it add
 in Settings → Mod Settings.
 
 ## Install it
+
+A full installation guide is on our [Discord](https://discord.gg/9uXz5pgz6Z)
 
 Each
 [release](https://github.com/samj-exe/taurus/releases) carries the tweak's `.ipa`, install this `.ipa` file with any sideloader, such as SideStore or Feather. You do not need to build to project if you do not wish to.
