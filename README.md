@@ -58,7 +58,7 @@ A full installation guide is on our [Discord](https://discord.gg/9uXz5pgz6Z)
 Each
 [release](https://github.com/samj-exe/taurus/releases) carries the tweak's `.ipa`, install this `.ipa` file with any sideloader, such as SideStore or Feather. You do not need to build to project if you do not wish to.
 
-Add the release source to [SideStore or Feather](https://raw.githubusercontent.com/samj-exe/taurus/stable/altstore-source.json), or add the [ESign source](https://raw.githubusercontent.com/samj-exe/taurus/stable/esign-source.json) in ESign.
+[Add the release source to SideStore, Feather, and Most Signing Apps](https://altdirect.app/?url=https://taurus.lat/repo), or manually add the ESign source (https://taurus.lat/esign) in ESign or any ESign compatible app.
 
 ## Build it
 
